@@ -32,15 +32,15 @@ Resources:
         ]
       SecurityGroups:
         - Ref: SecurityGroup
-      # UserData:
-      #   'Fn::Base64': |
-      #       #!/bin/bash
-      #       cd /home/ubuntu
-      #       git clone https://github.com/kvandenhaute/stable-diffusion.git
-      #       cd stable-diffusion
-      #       git checkout playground
-      #       git pull
-      #       bash install.sh -y
+      UserData:
+        'Fn::Base64': |
+            #!/bin/bash
+            cd /home/ubuntu
+            runuser -l ubuntu git clone https://github.com/kvandenhaute/stable-diffusion.git
+            cd stable-diffusion
+            runuser -l ubuntu git checkout playground
+            runuser -l ubuntu git pull
+            runuser -l ubuntu bash install.sh -y
   MyEIP:
     Type: AWS::EC2::EIP
   MyEIPAssociation:
