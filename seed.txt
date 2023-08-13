@@ -31,3 +31,37 @@ steps 32
 744x1200
 
 CFG 4.5
+
+
+
+====
+
+seed: 3941159379
+
+realisticVision
+
+NSFW, beautiful  30 old woman, brunette, blue eyes, medium breast, having sex, revcowgirl, girl on top, riding cock, pubic hair, vaginal, pussy, 1boy, lying in bed, penis, testicles, pov, in a bedroom, perfect lighting coming from a window, perfect face, beautiful attractive face, perfect body, finely detailed features, pronounced feminine feature, beautifully detailed woman, looking at camera, (orgasm expression), detailed skin texture, (blush:0.5), (goosebumps:0.5), subsurface scattering, sweaty skin,
+(masterpiece, best quality, extremely detailed:1.2), hyperdetailed, ultra-detailed, absurdres, ultra high res, highres, high detail, intricate detail, HDR, 8k resolution, insane detail, sharp focus, small head
+<lora:cowgirl:0.8>
+ <lora:add_detail:1>
+ <lora:breastinClass:0.5>
+
+ cartoon, painting, illustration, (worst quality, low quality, normal quality:2), CyberRealistic_Negative-neg, fcNeg-neg, 16-token-negative-deliberate-neg,  bad_pictures, UnrealisticDream, bad anatomy, bad proportions, extra limbs, long body, long neck, mutation, deformed face, extra face,  double head, extra head, humpbacked, disfigured, deformed, malformed, anatomical nonsense, morbid,  mutilated, unnatural body, malformed limbs, gross proportions, ugly, missing limbs, extra limbs, fat, obese, chubby, amputee, bodybuilder, muscular, strabismus, bad hands, anime, drawing, sketch, comic, 3D, tatto
+
+ DPM++ 2M Karras
+
+ steps 25
+
+ 900x1200
+
+ CFG 6
+
+
+============================================================
+
+30 year old model, with long brown hair, sad look, in a shower, dynamic pose, full body,
+nude, nsfw, (thigh gap), perfect body, perfect proportion, tan lines,
+detailed skin, pale skin, thin waist, ample heaps, (perfect nails), (medium natural breasts:1), wet skin, 
+8k, cinematic shot, ultrarealistic
+
+(masculine, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, BadDream, UnrealisticDream

@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir -p /home/ubuntu/www/stable-diffusion-webui/models/Lora/
-cd /home/ubuntu/www/stable-diffusion-webui/models/Lora/
+mkdir -p /home/ubuntu/stable-diffusion-webui/models/Lora/
+cd /home/ubuntu/stable-diffusion-webui/models/Lora/
 
 # wget -O finenude.safetensors https://civitai.com/api/download/models/127928
 # wget -O JustCum.safetensors https://civitai.com/api/download/models/132126

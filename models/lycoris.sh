@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mkdir -p /home/ubuntu/www/stable-diffusion-webui/models/lycoris/
-cd /home/ubuntu/www/stable-diffusion-webui/models/lycoris/
+mkdir -p /home/ubuntu/stable-diffusion-webui/models/lycoris/
+cd /home/ubuntu/stable-diffusion-webui/models/lycoris/
 
 # https://github.com/KohakuBlueleaf/a1111-sd-webui-lycoris
 
