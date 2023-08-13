@@ -38,9 +38,10 @@ Resources:
             cd /home/ubuntu
             git clone https://github.com/kvandenhaute/stable-diffusion.git
             chown -R ubuntu:ubuntu stable-diffusion
-            cd stable-diffusion
+            cd /home/ubuntu/stable-diffusion
             git checkout playground
             git pull
+            bash install.sh
   MyEIP:
     Type: AWS::EC2::EIP
   MyEIPAssociation:
