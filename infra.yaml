@@ -36,8 +36,11 @@ Resources:
         'Fn::Base64': |
             #!/bin/bash
             cd /home/ubuntu
-            git clone https://github.com/kvandenhaute/stable-diffusion.git setup
-            chown -R ubuntu:ubuntu setup
+            git clone https://github.com/kvandenhaute/stable-diffusion.git tmp
+            chown -R ubuntu:ubuntu tmp
+            mv tmp/{.,}* .
+            git checkout playground
+
   MyEIP:
     Type: AWS::EC2::EIP
   MyEIPAssociation:

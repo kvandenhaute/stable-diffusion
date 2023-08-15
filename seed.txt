@@ -65,3 +65,54 @@ detailed skin, pale skin, thin waist, ample heaps, (perfect nails), (medium natu
 8k, cinematic shot, ultrarealistic
 
 (masculine, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, BadDream, UnrealisticDream
+
+
+==========
+
+nun
+
+seed: 3299016079
+
+realisticVision
+
+sexy naked girl, blonde hair,  skinny, small breasts, small perfect nipples, perfect body, petite, tanned skin, caucasian:1.2, fit girl,
+wearing a nun hood and a purple cotton corset with open cup,
+looking at viewer, photoshoot pose,  look,
+[(church background:1.4)::0.6],
+cinematic shot, dramatic ligting,
+ultrarealistic, 8k, highly detailed,
+<lora:epiCRealismHelper:1>
+
+easynegative, ng_deepnegative, badhands, (worst quality:2), (low quality:2), (normal quality:2),
+lowres, watermark, monochrome, paintings, sketches, text, jpeg artifacts(dark circles:1.2), misformed feet
+
+ DPM++ 2M Karras
+
+ steps 50
+
+ 800x600
+
+ CFG 6
+
+
+
+
+
+ 2869032567
+
+ 1510927364
+
+
+
+
+
+(a 30 year old  Belgian woman), (saggy natural breasts:0.5), small  stiff nipples, natural looking lips,
+revcowgirl, nsfw, having sex with a white mail with medium cock shallow penetration, <lora:cowgirl:1>, feet behind legs,
+(beautiful and detailed eyes:1.1), (subtle smile),  beautiful brown hair, full body, detailed face, skin pores, tanned skin, perfect nails, detailed skin, tan lines, pale breasts, detailed feet, looking at viewer, hairy pussy, perfect hands, ((skinny)),
+yard background, outside, snow, nature,
+insane realisme, ultra-detailed, photorealistic, hard shadows, cinematic shot, dramatic lighting, RAW photo, subject, 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3, 8k ,  <lora:add_detail:1>, <lora:epiCRealismHelper:1>
+
+
+
+easynegative, ng_deepnegative, badhands, (worst quality:2), (low quality:2), (normal quality:2),
+lowres, watermark, monochrome, paintings, sketches, text, jpeg artifacts(dark circles:1.2), misformed feet,  cartoon, painting, illustration
