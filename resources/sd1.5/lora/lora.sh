@@ -38,6 +38,8 @@ wget -O shirtlift.safetensors https://civitai.com/api/download/models/7870
 # wget -O selfie_nudes.safetensors https://civitai.com/api/download/models/74335
 wget -O breastInClass.safetensors https://civitai.com/api/download/models/23250
 
+wget -O BondagePoleV1.safetensors https://civitai.com/api/download/models/115677
+
 wget -O LowRa.safetensors https://civitai.com/api/download/models/63006
 # wget -O lit.safetensors https://civitai.com/api/download/models/55665
 
@@ -45,7 +47,6 @@ wget -O LowRa.safetensors https://civitai.com/api/download/models/63006
 # wget -O weight_slider.safetensors https://civitai.com/api/download/models/126824
 # wget -O muscle_slider.safetensors https://civitai.com/api/download/models/121658
 # wget -O skin_tone_slider.safetensors https://civitai.com/api/download/models/121575
-wget -O slimModels.safetensors https://civitai.com/api/download/models/5810
 wget -O thinlegs.safetensors https://civitai.com/api/download/models/114204
 
 wget -O sexylingerie.safetensors https://civitai.com/api/download/models/140827
