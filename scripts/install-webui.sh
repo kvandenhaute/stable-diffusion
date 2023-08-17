@@ -11,10 +11,7 @@ cd /home/ubuntu
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
 bash /home/ubuntu/scripts/extensions.sh
-bash /home/ubuntu/scripts/embeddings.sh
-bash /home/ubuntu/scripts/lora.sh
-bash /home/ubuntu/scripts/Stable-diffusion/cyberrealistic.sh
 
 cd /home/ubuntu/stable-diffusion-webui
 
-bash ./webui.sh --listen
+bash ./webui.sh --xformers --no-download-sd-model --exit
