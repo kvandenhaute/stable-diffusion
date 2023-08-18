@@ -1,5 +1,5 @@
 #!/bin/bash
 
-bash /home/ubuntu/scripts/embeddings.sh
-bash /home/ubuntu/scripts/lora.sh
-bash /home/ubuntu/scripts/Stable-diffusion/cyberrealistic.sh
+bash /home/ubuntu/resources/embeddings.sh
+bash /home/ubuntu/resources/lora.sh
+bash /home/ubuntu/resources/checkpoints/photon.sh

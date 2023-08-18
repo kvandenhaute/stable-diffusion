@@ -1,3 +1,3 @@
 # stable-diffusion
 
-ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-52-48-47-65.eu-west-1.compute.amazonaws.com
+ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-34-246-166-144.eu-west-1.compute.amazonaws.com

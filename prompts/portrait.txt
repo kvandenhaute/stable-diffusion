@@ -1,0 +1,3 @@
+dark red lips, mouth slightly open, perfecteyes, detailed face, skin pores,
+32k uhd
+<lora:PerfectEyesXL:0.7>

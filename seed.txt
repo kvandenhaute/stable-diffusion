@@ -133,7 +133,12 @@ nikon z9, 8k, award-winning photograph, masterpiece
 (insane realism z9 photo of  a 24 year old  Belgian woman),  (detailed anatomy, face asymmetric:1.3), ((((firm large breasts)))), small  stiff nipples, natural looking lips, (((brown hair))), completely nude, standing up leaning against a palm tree, exotic beach, melancholic facial expression, wearing a straw hat, hairy pussy, ((tanned by the sun)), ultra realistic, dslr, 8k, ((skinny)), opening between the thighs, very slim body, slim thighs, ((cinematic)), full body portrait, wide angle, full-body shot, Nikon Z9, award – winning photograph, masterpiece, looking at viewer, (ambient warm volumetric lighting, perfectly lit:1.2)
 
 
-
+a caucasian 30 year old woman dressed as spiderman,
+short blonde hair, sensual look, she is 168cm tall, perfect big breasts, athletic, slim body,
+perfect feet, perfect hands, detailed skin texture,
+((standing in a distance on a grass field in meadow)), professional photoshoot pose,
+((full-body shot), portrait, ultra realistic, focus, looking at camera, insane realisme, nikon z9, 32k uhd, Nurlens photography, raw
+<lora:xl_real_beta1:0.7> <lora:nurlens_SDXL_V0.1:0.9> <lora:BoutXOval_SDXL_dim32-000005:1.2>
 
 
 3d, cartoon, (worst quality:1.8) (low quality:1.8), (normal quality:1.8), 3d render, (glossy:1.2), paintings, sketches, skin spots, acnes, skin blemishes, age spot, glan, extra fingers, fewer fingers, strange fingers, bad hand, bad anatomy, fused fingers, missing leg, mutated hand, malformed limbs, abs, (tattoo:1.2), long face, (makeup:0.8), extra arm,

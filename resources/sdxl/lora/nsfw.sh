@@ -12,7 +12,6 @@ wget -O JustCum.safetensors https://civitai.com/api/download/models/132126
 wget -O plowcam_doggystyle.safetensors https://civitai.com/api/download/models/132242
 wget -O "topless v1a_fro0.95.safetensors" https://civitai.com/api/download/models/133037
 wget -O GarterbeltXL.safetensors https://civitai.com/api/download/models/127945
-wget -O PerfectEyesXL.safetensors https://civitai.com/api/download/models/128461
 wget -O edgApronXL.safetensors https://civitai.com/api/download/models/128396
 wget -O shirtlift_SDXL_v2.safetensors https://civitai.com/api/download/models/138950
 wget -O h41ry.safetensors https://civitai.com/api/download/models/132874
@@ -28,7 +27,6 @@ wget -O h3ll4b4b3s.safetensors https://civitai.com/api/download/models/139902
 # <lora:plowcam_doggystyle:1>
 # topless
 # <lora:GarterbeltXL:0.99>
-# <lora:PerfectEyesXL:0.7> blue eye, close up, perfecteyes
 # <lora:edgApronXL:0.7>
 # <lora:shirtlift_SDXL:1>
 # <lora:h41ry:0.75>h41ry
