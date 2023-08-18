@@ -1,5 +1,5 @@
 #!/bin/bash
 
-bash /home/ubuntu/resources/embeddings.sh
-bash /home/ubuntu/resources/lora.sh
-bash /home/ubuntu/resources/checkpoints/photon.sh
+bash /home/ubuntu/resources/sd1.5/embeddings.sh
+bash /home/ubuntu/resources/sd1.5/lora.sh
+bash /home/ubuntu/resources/sd1.5/checkpoints/photon.sh
