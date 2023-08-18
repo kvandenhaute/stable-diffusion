@@ -11,3 +11,9 @@ wget -O breastsout24_rvkwi.safetensors https://civitai.com/api/download/models/2
 
 wget -O skirtlift-v1.safetensors https://civitai.com/api/download/models/10187
 # <lora:skirtlift-v4:0.8> skirtlift
+
+wget -O striped_dress-10.safetensors https://civitai.com/api/download/models/103758
+# <lora:striped_dress-10:0.5> striped_dress
+
+wget -O virgin_killer_sweater.safetensors https://civitai.com/api/download/models/123920
+# virgin killer sweate, sideboob, aerola slip, sleeveless
