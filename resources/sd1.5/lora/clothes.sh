@@ -17,3 +17,9 @@ wget -O striped_dress-10.safetensors https://civitai.com/api/download/models/103
 
 wget -O virgin_killer_sweater.safetensors https://civitai.com/api/download/models/123920
 # virgin killer sweate, sideboob, aerola slip, sleeveless
+
+wget -O WindyUpskirt.safetensors https://civitai.com/api/download/models/52059
+# WindyUpskirt, <lora:WindyUpskirt:0.9>
+
+wget -O downblouse-v1.safetensors https://civitai.com/api/download/models/11964
+# <lora:downblouse-v1:1> downblouse nipslip
