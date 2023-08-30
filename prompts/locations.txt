@@ -31,3 +31,8 @@ melancholic facial expression, looking at viewer, hetero, 1boy, penis, sex, puss
 
 
 28 - 5 DPM 2m Karras
+
+
+1girl, (vibrant, 8k, masterpiece, best quality, high resolution, intricate, award winning, cinematic:1.25) photo of a 30 year old woman looking like pocahontas, (168cm length), short blond hair, faux hawk, full body shot, 
+melancholic facial expression, looking at viewer, hourglass body shape, sigma, heels, (standing in a distance in a cafe, surrounded by a cozy atmosphere, full-body shot) , (evening dress), 
+<lora:hourglassv01:.5>
