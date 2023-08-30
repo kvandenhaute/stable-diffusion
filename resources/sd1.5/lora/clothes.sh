@@ -23,3 +23,9 @@ wget -O WindyUpskirt.safetensors https://civitai.com/api/download/models/52059
 
 wget -O downblouse-v1.safetensors https://civitai.com/api/download/models/11964
 # <lora:downblouse-v1:1> downblouse nipslip
+
+wget -O tinkerbell_character-20.safetensors https://civitai.com/api/download/models/67464
+# <lora:tinkerbell_character-20:0.6>  (TinkerWaifu:1),  (strapless green satin dress)
+
+wget -O WeddingDressEXv0.4.safetensors https://civitai.com/api/download/models/29922
+# <lora:weddingdressex0.3:0.9>

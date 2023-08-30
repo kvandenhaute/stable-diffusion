@@ -20,3 +20,5 @@ wget -O easynegative.pt https://civitai.com/api/download/models/9536
 wget -O badhand.pt https://civitai.com/api/download/models/20068
 
 # wget -O awaitingtongue.pt https://civitai.com/api/download/models/8954
+
+wget -O verybadimagenegative_v1.3.pt https://civitai.com/api/download/models/25820
