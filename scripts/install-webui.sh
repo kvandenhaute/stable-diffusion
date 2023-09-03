@@ -11,8 +11,8 @@ cd /home/ubuntu
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
 bash /home/ubuntu/resources/extensions.sh
+bash /home/ubuntu/resources/sd1.5/embeddings.sh
 
 cd /home/ubuntu/stable-diffusion-webui
 
 bash ./webui.sh --no-download-sd-model --exit
-# bash ./webui.sh --xformers --no-download-sd-model --exit
