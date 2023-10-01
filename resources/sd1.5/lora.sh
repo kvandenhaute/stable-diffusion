@@ -4,6 +4,9 @@ bash ./lora/clothes.sh
 bash ./lora/people.sh
 basg ./lora/photo.sh
 
+wget -O add_detail.safetensors https://civitai.com/api/download/models/62833
+wget -O BetterStandingPussy 0.1.safetensors https://civitai.com/api/download/models/123570
+
 # wget -O 'Bubble Gum.safetensors' https://civitai.com/api/download/models/117038
 # wget -O epiCRealismHelper.safetensors https://civitai.com/api/download/models/118945
 # wget -O epi_noiseoffset.safetensors https://civitai.com/api/download/models/16576

@@ -2,3 +2,8 @@ short blonde hair, sensual look, she is 168cm tall, perfect big breasts, athleti
 
 
  (fake breast, pink nipples, normal_nipples, small areola <lora:Breasts_Helper_Trail_v2:.6>),
+
+
+
+ (vibrant, 8k, masterpiece, best quality, high resolution, intricate, award winning, cinematic:1.25) frontal photo of a beautiful 27 year old French (naked:1.3), standing in clothing store, (hairy pussy), perky breasts, (straight blonde hair), melancholic facial expression
+<lora:add_detail:1> <lora:BetterStandingSlit:0.2> <lora:elsa_of_arendelle_v1:1>
