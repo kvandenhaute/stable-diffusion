@@ -29,3 +29,6 @@ wget -O tinkerbell_character-20.safetensors https://civitai.com/api/download/mod
 
 wget -O WeddingDressEXv0.4.safetensors https://civitai.com/api/download/models/29922
 # <lora:weddingdressex0.3:0.9>
+
+wget -O ShirtliftXplicitContent.safetensors "https://civitai.com/api/download/models/169433?type=Model&format=SafeTensor"
+# https://civitai.com/models/151527/shirtlift-or-xplicit-content-lora
