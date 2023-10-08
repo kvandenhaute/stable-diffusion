@@ -1,2 +1,8 @@
 8k raw photo of a 30 year old woman standing in the middle of a cafe, bokeh, long brown steep hair, natural skin, (white transparent tank top with), tight black jeans, cleavage, perfect hands, perfect body, sensual look
 <lora:add-detail-xl:.6>
+
+30 year old beautiful Belgian woman sitting on a bench in a city park, perfect hands, (realistic, uhd, high detail, 8k, award-winning, raw, masterpiece), bokeh, full body, hot summer, dress, looking at viewer
+
+cropped-frame, imbalance, poor image quality, limited video, specialized creators, polymorphic, washed-out low-contrast (deep fried) watermark, cropped, out-of-frame, low quality, low res, poorly drawn
+
+1082833575
