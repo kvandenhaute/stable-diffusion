@@ -15,14 +15,14 @@ cropped-frame, imbalance, poor image quality, limited video, specialized creator
 
 
 
-
+DPM 3 35 6.5 / 25 0.35 ultrasharp
 
 professional photo of a beautiful 30-year old French woman standing in a cafe,
-turquoise lingerie, pearl necklace, melancholic facial expression,
-perfect hands, full body shot, perfect body, very beautiful, very tanned skin, long curly light brown hair,
+turquoise lingerie, pearl necklace, garter belt,
+perfect hands, full body shot, perfect skinny body, very beautiful, very tanned skin, long curly light brown hair, BREAK
 natural lighting,
-(8k uhd, high detail, masterpiece, best quality, high resolution), bokeh, raw, realistic, analog
+(8k uhd, high detail, masterpiece, best quality, high resolution), bokeh, raw, realistic
 
-cgi, cartoon
+cgi, cartoon, anime, 3d, painting
 
-3883079457
+2364962504
