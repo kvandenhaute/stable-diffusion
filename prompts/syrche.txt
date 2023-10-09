@@ -1,28 +1,21 @@
-8k raw photo of a 30 year old woman standing in the middle of a cafe, bokeh, long brown steep hair, natural skin, (white transparent tank top with), tight black jeans, cleavage, perfect hands, perfect body, sensual look
-<lora:add-detail-xl:.6>
+amateur photo of a beautiful 30-year old French woman sitting on a chair in a cafe,
+naked, pearl necklace, grabbing breasts, melancholic facial expression,
+perfect hands, full body shot, perfect skinny body, very beautiful, natural skin, long light brown hair, perfect skin texture, perfect pussy, 168cm tall, small breast BREAK
+natural lighting, dark outside,
+(8k uhd, high detail, masterpiece, best quality, high resolution), bokeh, raw, realistic, grainy
 
-30 year old beautiful Belgian woman sitting on a bench in a city park, perfect hands, (realistic, uhd, high detail, 8k, award-winning, raw, masterpiece), bokeh, full body, hot summer, dress, looking at viewer
+cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
+missing leg, malformed limbs, too many fingers
 
-cropped-frame, imbalance, poor image quality, limited video, specialized creators, polymorphic, washed-out low-contrast (deep fried) watermark, cropped, out-of-frame, low quality, low res, poorly drawn
+betterThanWords / Euler a / 35 - 6.5 / 600x900 / UltraSharp 25 0.35
 
-1082833575
+=================================
 
+amateur photo of a beautiful 30-year old French woman,
+naked, melancholic facial expression, dark brown eyes,
+perfect hands, (full body shot, head to toes), perfect skinny body, very beautiful, tanned skin, long brown hair:1.3, 168cm tall, small natural breasts, slim legs, haired pussy BREAK
+natural lighting, outside in nature,
+(looking at the camera:1.4), (highest quality)
 
-
-
-
-
-
-
-
-DPM 3 35 6.5 / 25 0.35 ultrasharp
-
-professional photo of a beautiful 30-year old French woman standing in a cafe,
-turquoise lingerie, pearl necklace, garter belt,
-perfect hands, full body shot, perfect skinny body, very beautiful, very tanned skin, long curly light brown hair, BREAK
-natural lighting,
-(8k uhd, high detail, masterpiece, best quality, high resolution), bokeh, raw, realistic
-
-cgi, cartoon, anime, 3d, painting
-
-2364962504
+cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
+missing leg, malformed limbs, too many fingers
