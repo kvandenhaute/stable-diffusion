@@ -3,4 +3,4 @@
 mkdir -p /home/ubuntu/stable-diffusion-webui/models/Stable-diffusion/
 cd /home/ubuntu/stable-diffusion-webui/models/Stable-diffusion/
 
-wget -O absolutereality.safetensors https://civitai.com/api/download/models/132760
+wget -O epicphotogasm_x.safetensors "https://civitai.com/api/download/models/172306?type=Model&format=SafeTensor&size=pruned&fp=fp16"
