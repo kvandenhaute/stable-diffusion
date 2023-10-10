@@ -1,6 +1,6 @@
 # stable-diffusion
 
-ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-34-247-131-186.eu-west-1.compute.amazonaws.com
+ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-34-254-39-48.eu-west-1.compute.amazonaws.com
 
 https://github.com/Sanster/lama-cleaner
 https://github.com/nateraw/stable-diffusion-videos
