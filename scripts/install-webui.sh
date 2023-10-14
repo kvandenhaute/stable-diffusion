@@ -11,6 +11,7 @@ cd /home/ubuntu
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
 bash /home/ubuntu/resources/extensions.sh
+bash /home/ubuntu/resources/hires.sh
 bash /home/ubuntu/scripts/sd.sh
 
 cd /home/ubuntu/stable-diffusion-webui

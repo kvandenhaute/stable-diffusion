@@ -19,3 +19,31 @@ natural lighting, outside in nature,
 
 cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
 missing leg, malformed limbs, too many fingers
+
+
+
+
+
+
+RAW photo of a beautiful 30-year old Belgian women taking a shower,
+melancholic facial expression, symmetrical eyes, naked,
+perfect hands, (full body shot), very slim body, very beautiful, long straight hair:1.3, 168cm tall, tiny breasts, perfect feet, hairy pussy BREAK
+natural lighting,
+(looking at the camera:1.4), (highest quality)
+<lora:add_detail:.6>
+
+cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
+missing leg, malformed limbs, too many fingers, big breasts, medium breasts
+
+DPM++ SDE Karras / 40 - 5 / 600x900 / UltraSgarp 25 0.35
+
+
+
+
+
+RAW photo of a beautiful 30-year old Belgian women spreading her legs, 
+melancholic facial expression, symmetrical eyes, naked, wearing secretary glasses, perfect dark red lips,
+perfect hands, (full body shot), very slim body, very beautiful, long voluminous hair:1.3, 168cm tall, tiny breasts, perfect feet, hairy pussy BREAK
+natural lighting, outside in the garden, on the grass,
+(looking at the camera:1.4), (highest quality), bokeh
+<lora:add_detail:.6>  <lora:skin_tone_slider_v1:.5> 
