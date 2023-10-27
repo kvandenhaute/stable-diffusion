@@ -17,4 +17,4 @@ bash /home/ubuntu/resources/hires.sh
 cd /home/ubuntu/stable-diffusion-webui
 
 # bash ./webui.sh --no-download-sd-model --listen
-bash ./webui.sh --no-download-sd-model --listen
+bash ./webui.sh --listen
