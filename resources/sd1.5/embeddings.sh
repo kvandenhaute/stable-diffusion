@@ -9,6 +9,7 @@ cd /home/ubuntu/stable-diffusion-webui/embeddings/
 wget -O BadDream.pt https://civitai.com/api/download/models/77169
 wget -O UnrealisticDream.pt https://civitai.com/api/download/models/77173
 
+
 wget -O CyberRealistic_Negative-neg.pt https://civitai.com/api/download/models/82745
 wget -O easynegative.pt https://civitai.com/api/download/models/9536
 # wget -O FastNegative.pt https://civitai.com/api/download/models/94057

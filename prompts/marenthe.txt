@@ -26,3 +26,11 @@ cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
 missing leg, malformed limbs, too many fingers
 
 epicphotogasm_x / DPM++ 2m Karras / 20 - 5 / 600x900 / UltraSharp 25 0.35
+
+
+
+
+(far shot, full body:1.3) masterpiece photo of an athletic young naked Scandinavian woman with a height of 168cm, looking at viewer, twin braids BREAK
+(perfect hands:1.2), fake breasts, pubic hair , pale skin BREAK
+royal bedroom, window, soft lighting,
+(film grain:0.7), detailed skin texture, detailed cloth texture, detailed face, (intricate sharp details:1.1), ultra high res
