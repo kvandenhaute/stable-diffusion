@@ -19,7 +19,7 @@ Resources:
   EC2Instance:
     Type: AWS::EC2::Instance
     Properties:
-      InstanceType: g5.xlarge #t2.micro #
+      InstanceType: g5.2xlarge #t2.micro #
       ImageId: ami-0ca263d9c500e6f38 #ami-0136ddddd07f0584f # Deep Learning AMI GPU TensorFlow 2.13 (Ubuntu 20.04) 20230724
       KeyName: macmini
       BlockDeviceMappings:
@@ -39,7 +39,6 @@ Resources:
             git clone https://github.com/kvandenhaute/stable-diffusion.git tmp
             chown -R ubuntu:ubuntu tmp
             mv tmp/{.,}* .
-            git checkout playground
 
   MyEIP:
     Type: AWS::EC2::EIP
