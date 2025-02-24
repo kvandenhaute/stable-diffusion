@@ -3,7 +3,7 @@
 
 Run ./deploy.sh
 
-ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-52-16-26-47.eu-west-1.compute.amazonaws.com
+ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-63-32-123-156.eu-west-1.compute.amazonaws.com
 
 do `git checkout playground`
 
@@ -20,4 +20,4 @@ img2img
 
 
 
-http://ec2-52-16-26-47.eu-west-1.compute.amazonaws.com:7860
+http://ec2-63-32-123-156.eu-west-1.compute.amazonaws.com:7860
