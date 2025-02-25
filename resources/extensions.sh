@@ -10,4 +10,4 @@ git clone https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.
 
 
 rm ./sd-webui-reactor-sfw/scripts/reactor_sfw.py
-cp ./reactor_sfw.py ./sd-webui-reactor-sfw/scripts/reactor_sfw.py
+cp /home/ubuntu/resources/reactor_sfw.py ./sd-webui-reactor-sfw/scripts/reactor_sfw.py
