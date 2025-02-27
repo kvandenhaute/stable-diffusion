@@ -21,6 +21,6 @@ git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
 
 bash /home/ubuntu/resources/extensions.sh
 bash /home/ubuntu/resources/faces.sh
-bash /home/ubuntu/resources/sd1.5/checkpoints/photon.sh
+bash /home/ubuntu/resources/sdxl/checkpoints/juggernaut.sh
 
 ./stable-diffusion-webui/webui.sh --xformers --allow-code --no-download-sd-model --enable-insecure-extension-access --skip-torch-cuda-test --listen
