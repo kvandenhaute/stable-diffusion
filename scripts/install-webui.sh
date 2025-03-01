@@ -12,7 +12,7 @@ sudo apt-get install python3-opencv -y
 sudo apt install --no-install-recommends google-perftools -y
 
 pip install --upgrade pip
-pip install onnx==1.16.1
+pip install onnx==1.17
 pip install onnxruntime-gpu
 # pip install albumentations==1.4.3
 pip install insightface==0.7.3

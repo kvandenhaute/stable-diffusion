@@ -1,36 +1,22 @@
-short blonde hair, sensual look, she is 168cm tall, perfect big breasts, athletic,
+juggernautXL
 
+Prompt: full body photo of a 30-years old naked European woman with a height of 168cm, average body, beautiful fake breasts, tanned skin, (triangle shaped pubic hair:1.2), thick eyebrows, brown blonde hair, melancholic facial expression BREAK
+looking at viewer, shot by professional photographer in a studio, film grain, low contrast, natural lighting
 
- (fake breast, pink nipples, normal_nipples, small areola <lora:Breasts_Helper_Trail_v2:.6>),
+Negative: bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, 2girl, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Deformed iris, Deformed pupils, Ugly eyes, dead eyes
 
+Sampling: DPM++2M automatic
 
+Sampling steps: 35
 
- (vibrant, 8k, masterpiece, best quality, high resolution, intricate, award winning, cinematic:1.25) frontal photo of a beautiful 27 year old French (naked:1.3), standing in clothing store, (hairy pussy), perky breasts, (straight blonde hair), melancholic facial expression
-<lora:add_detail:1> <lora:BetterStandingSlit:0.2> <lora:elsa_of_arendelle_v1:1>
+CFG scale: 5
 
+Seed: 193922030
 
+864x1152
 
-
-
-
-
-
-
-amateur photo of a short beautiful 30-year old Scandinavian woman,
-naked, melancholic facial expression,
-perfect hands, (full body shot, head to toes), perfect skinny body, very beautiful, pale skin, short white hair:1.3, 168cm tall, big fake breasts, slim legs, hairy pussy BREAK
-natural lighting, outside in nature,
-(looking at the camera:1.4), (highest quality)
-
-cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
-missing leg, malformed limbs, too many fingers
-
-epicphotogasm_x / DPM++ 2m Karras / 20 - 5 / 600x900 / UltraSharp 25 0.35
+Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5
 
 
 
-
-(far shot, full body:1.3) masterpiece photo of an athletic young naked Scandinavian woman with a height of 168cm, looking at viewer, twin braids BREAK
-(perfect hands:1.2), fake breasts, pubic hair , pale skin BREAK
-royal bedroom, window, soft lighting,
-(film grain:0.7), detailed skin texture, detailed cloth texture, detailed face, (intricate sharp details:1.1), ultra high res
+vibrant, cinematic
