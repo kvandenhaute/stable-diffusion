@@ -1,0 +1,54 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: A CloudFormation template to deploy the Stable Diffusion Web UI by Automatic1111
+
+Resources:
+  SecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupName: sd-webui-sg
+      GroupDescription: Security group for Stable Diffusion WebUI EC2 instance
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 0.0.0.0/0
+        - IpProtocol: tcp
+          FromPort: 7860
+          ToPort: 7860
+          CidrIp: 0.0.0.0/0
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: g5.2xlarge #t2.micro #
+      ImageId: ami-0ca263d9c500e6f38 #ami-0136ddddd07f0584f # Deep Learning AMI GPU TensorFlow 2.13 (Ubuntu 20.04) 20230724
+      KeyName: macmini
+      BlockDeviceMappings:
+        - DeviceName: /dev/sda1
+          Ebs:
+            VolumeSize: 300
+            VolumeType: gp2
+      "Tags" : [
+            {"Key" : "Name", "Value" : "sd-web-ui-cf"},
+        ]
+      SecurityGroups:
+        - Ref: SecurityGroup
+      UserData:
+        'Fn::Base64': |
+            #!/bin/bash
+            cd /home/ubuntu
+            git clone https://github.com/kvandenhaute/stable-diffusion.git tmp
+            chown -R ubuntu:ubuntu tmp
+            mv tmp/{.,}* .
+
+  MyEIP:
+    Type: AWS::EC2::EIP
+  MyEIPAssociation:
+    Type: AWS::EC2::EIPAssociation
+    Properties:
+      AllocationId: !GetAtt MyEIP.AllocationId
+      InstanceId: !Ref EC2Instance
+
+Outputs:
+  WebsiteURL:
+    Value: !Sub http://${MyEIP}
+    Description: WebApp URL
