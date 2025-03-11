@@ -14,8 +14,6 @@ Sampling steps: 35
 
 CFG scale: 2
 
-Seed: 193922030
-
 864x1152
 
 Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5

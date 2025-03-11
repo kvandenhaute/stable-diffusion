@@ -5,18 +5,12 @@ looking at viewer, shot by professional photographer in a studio, film grain, lo
 
 Negative: bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, 2girl, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Deformed iris, Deformed pupils, Ugly eyes, dead eyes
 
-Sampling: DPM++2M automatic
+Sampling: DPM++3M SDE Karras
 
 Sampling steps: 35
 
 CFG scale: 2
 
-Seed: 193922030
-
 864x1152
 
 Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5
-
-
-
-vibrant, cinematic

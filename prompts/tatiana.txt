@@ -1,25 +1,16 @@
-amateur photo of a beautiful 30-year old Irish woman,
-naked, melancholic facial expression, dark brown eyes,
-perfect hands, full body shot, perfect body, very beautiful, pale skin, long curly ginger hair:1.3, 174cm tall, freckles:2, big natural breasts BREAK
-natural lighting,
-(looking at the camera:1.4), (highest quality)
+juggernautXL
 
-cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
-missing leg, malformed limbs, too many fingers
+Prompt: full body photo of a 40-years old naked European woman with curves, plump pear-shaped body, small saggy breasts, pale skin, (triangle shaped pubic hair:1.2), thick eyebrows, long brown hair, melancholic facial expression BREAK
+looking at viewer, shot by professional photographer in a studio
 
-epicphotogasm_x / DPM++ 2m Karras / 20 - 5 / 600x900 / UltraSharp 25 0.35
+Negative: bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, 2girl, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Deformed iris, Deformed pupils, Ugly eyes, dead eyes
 
-=======
+Sampling: DPM++3M SDE Karras
 
-amateur photo of a beautiful 40-year old Irish woman,
-naked, melancholic facial expression, dark brown eyes,
-perfect hands, (full body shot), perfect body, very beautiful, pale skin, bangs ginger hair:1.3, 174cm tall, freckles:2, big natural breasts, pubic hair BREAK
-natural lighting,
-(looking at the camera:1.4), (highest quality)
+Sampling steps: 35
 
-=======
+CFG scale: 2
 
+864x1152
 
-???
-
-RAW photo of sexy 32 years old woman, medium breasts, blond, straight hair, Sheer Cover-Up Dress: Layering a sheer cover-up dress over swimwear, effortlessly transitioning from beach to resort chic, in outdoor machine, 8k uhd, dslr, high quality, film grain, Fujifilm XT3, sexy, absurdres, detailed
+Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5

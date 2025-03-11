@@ -5,108 +5,12 @@ looking at viewer, shot by professional photographer in a studio, film grain, lo
 
 Negative: bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, 2girl, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Deformed iris, Deformed pupils, Ugly eyes, dead eyes
 
-Sampling: DPM++2M automatic
+Sampling: DPM++3M SDE Karras
 
 Sampling steps: 35
 
 CFG scale: 2
 
-Seed: 193922030
-
 864x1152
 
 Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5
-
-
-
-vibrant, cinematic
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-JuggernautXL, DPM++ 2M Karras, 30-40, 3-7 CFG, 832x1216
-
-A photorealistic image of a 30-year old Belgian women posing naked in a garden full of flowers. She has small perfect breasts, slightly tanned skin. She has dark long brown hair, very dark brown eyes. Her face is rather small. Her skin is perfect. She's rather skinny. And 170cm tall. She's facing the camera directly. 8k quality, ultra sharp. Her hands are perfect. She has some pubic hair. Cheeky smile.
-
-realvisxlV40_v40LightningBakedvae, DPM++ SDE Karras, 5, 1 CFG, 832x1216
-
-A photorealistic image of a 30-year old Belgian women sitting naked (spreading her legs) in a garden full of flowers. She has small perfect breasts, slightly tanned skin. Dark brown hair in pigtails, very dark brown eyes. Her face is rather small. Her skin is perfect. She's rather skinny. And 170cm tall. She's facing the camera directly. 8k quality, ultra sharp. Her hands are perfect. Hairy pussy.  Grabbing her tits.
-
-(worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), open mouth
-
-a photorealistic full body image of a 30-year old woman looking like a very sexy Yasmine from Aladdin, total nude, uhd quality
-
-=================================
-
-
-
-A photorealistic image of a 30-year old Belgian women naked in a wooden barn. Hands up, bondage.  She has small breasts, slightly tanned skin. She has dark long brown hair, very dark brown eyes. Her face is rather small. Her skin is perfect. She's rather skinny. And 170cm tall. She's facing the camera directly. 8k quality, ultra sharp. Her hands are perfect. She has a lot of pubic hair. Head to toe. Wearing cowboy boots. base of earth and hay. Sad look on her face.
-
- <lora:Hands_up:1>
-
-======
-
-amateur photo of a beautiful 30-year old French woman sitting on a chair in a cafe,
-naked, pearl necklace, grabbing breasts, melancholic facial expression,
-perfect hands, full body shot, perfect skinny body, very beautiful, natural skin, long light brown hair, perfect skin texture, perfect pussy, 168cm tall, small breast BREAK
-natural lighting, dark outside,
-(8k uhd, high detail, masterpiece, best quality, high resolution), bokeh, raw, realistic, grainy
-
-cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
-missing leg, malformed limbs, too many fingers
-
-betterThanWords / Euler a / 35 - 6.5 / 600x900 / UltraSharp 25 0.35
-
-=================================
-
-amateur photo of a beautiful 30-year old French woman,
-naked, melancholic facial expression, dark brown eyes,
-perfect hands, (full body shot, head to toes), perfect skinny body, very beautiful, tanned skin, long brown hair:1.3, 168cm tall, small natural breasts, slim legs, haired pussy BREAK
-natural lighting, outside in nature,
-(looking at the camera:1.4), (highest quality)
-
-cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
-missing leg, malformed limbs, too many fingers
-
-
-
-
-
-
-RAW photo of a beautiful 30-year old Belgian women taking a shower,
-melancholic facial expression, symmetrical eyes, naked,
-perfect hands, (full body shot), very slim body, very beautiful, long straight hair:1.3, 168cm tall, tiny breasts, perfect feet, hairy pussy BREAK
-natural lighting,
-(looking at the camera:1.4), (highest quality)
-<lora:add_detail:.6>
-
-cgi, cartoon, anime, 3d, painting, render, drawing, illustration,
-missing leg, malformed limbs, too many fingers, big breasts, medium breasts
-
-DPM++ SDE Karras / 40 - 5 / 600x900 / UltraSgarp 25 0.35
-
-
-
-
-
-RAW photo of a beautiful 30-year old Belgian women spreading her legs, 
-melancholic facial expression, symmetrical eyes, naked, wearing secretary glasses, perfect dark red lips,
-perfect hands, (full body shot), very slim body, very beautiful, long voluminous hair:1.3, 168cm tall, tiny breasts, perfect feet, hairy pussy BREAK
-natural lighting, outside in the garden, on the grass,
-(looking at the camera:1.4), (highest quality), bokeh
-<lora:add_detail:.6>  <lora:skin_tone_slider_v1:.5> 
