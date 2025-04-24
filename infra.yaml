@@ -20,7 +20,7 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: g5.2xlarge #t2.micro #
-      ImageId: ami-0ca263d9c500e6f38 #ami-0136ddddd07f0584f # Deep Learning AMI GPU TensorFlow 2.13 (Ubuntu 20.04) 20230724
+      ImageId: ami-001b3e339c863ec89 #ami-0136ddddd07f0584f # Deep Learning AMI GPU TensorFlow 2.13 (Ubuntu 20.04) 20230724
       KeyName: macmini
       BlockDeviceMappings:
         - DeviceName: /dev/sda1

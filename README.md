@@ -3,7 +3,7 @@
 
 Run ./deploy.sh
 
-ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-52-30-234-224.eu-west-1.compute.amazonaws.com
+ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-34-250-166-218.eu-west-1.compute.amazonaws.com
 
 do `git checkout playground`
 
@@ -16,7 +16,7 @@ https://stablediffusionxl.com/prompts/
 
 
 
-http://ec2-52-30-234-224.eu-west-1.compute.amazonaws.com:7860
+http://ec2-34-250-166-218.eu-west-1.compute.amazonaws.com:7860
 
 
 

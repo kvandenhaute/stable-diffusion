@@ -1,10 +1,10 @@
 juggernautXL
 
-Prompt: full body photo of a 40-years old naked European woman with a height of 170cm, skinny body, tanned skin, (medium firm breasts:1.2), (triangle shaped pubic hair:1.2), bright blue eyes, thick eyebrows, round shaped face, long blond / brown hair in a bob, big smile BREAK
+Prompt: full body photo of a 20-years old naked European woman with a height of 164cm, normal body, pale skin, (large firm breasts:1.2), (triangle shaped pubic hair:1.2), bright blue eyes, thick eyebrows, round shaped face, long blond / brown curly hair, gentle smile BREAK
 looking at viewer, shot by professional photographer in a studio, film grain, low contrast, natural lighting
 
-Prompt: full body photo of a 40-years old European woman with a height of 170cm, skinny body, tanned skin, (medium firm breasts:1.2), (small white bikini, only pants, no bra, naked breasts), bright blue eyes, thick eyebrows, long blond / brown hair in a bob, big smile BREAK
-looking at viewer, shot by professional photographer on. a tropical beach, bokeh
+Prompt: full body photo of a 30-years old naked European woman with a height of 168cm, average body, pale skin, (large firm breasts:1.2), (triangle shaped pubic hair:1.2), thick eyebrows, brown blonde hair, melancholic facial expression BREAK
+looking at viewer, raw photo, soft lighting, film grain, editorial style, 18mm f/2.8 photograph
 
 Negative: bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, 2girl, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Deformed iris, Deformed pupils, Ugly eyes, dead eyes
 
