@@ -6,13 +6,16 @@ looking at viewer, shot by professional photographer in a studio, film grain, lo
 Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, melancholic facial expression BREAK
 looking at viewer, raw photo, soft lighting, film grain, editorial style, 18mm f/2.8 photograph
 
+Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, sharp face, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, melancholic facial expression BREAK
+looking at viewer, raw photo, soft lighting, film grain, editorial style, 18mm f/2.8 photograph, detailed hands, detailed fingers
+
 Prompt (4039838748): photo of a 35-years old naked European woman with a height of 170cm lying in bed, athletic body, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, melancholic facial expression BREAK
 on her back, legs in the air,
 looking at viewer, shot by professional photographer in a bed room, film grain, low contrast, natural lighting
 
 Negative: bad anatomy, bad hands, three hands, three legs, bad arms, missing legs, missing arms, poorly drawn face, bad face, fused face, cloned face, worst face, worst feet, three feet, fused feet, fused thigh, three thigh, fused thigh, extra thigh, worst thigh, missing fingers, extra fingers, ugly fingers, long fingers, horn, extra eyes, huge eyes, 2girl, amputation, disconnected limbs, cartoon, cg, 3d, unreal, animate, Deformed iris, Deformed pupils, Ugly eyes, dead eyes
 
-Sampling: DPM++3M SDE Karras
+Sampling: DPM++3M SDE automatic
 
 Sampling steps: 35
 
