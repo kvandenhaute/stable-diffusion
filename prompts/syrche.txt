@@ -3,10 +3,10 @@ juggernautXL
 Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, cheeky smile on her face BREAK
 looking at viewer, shot by professional photographer in a studio, film grain, low contrast, natural lighting
 
-Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, melancholic facial expression BREAK
+Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, dark brown eyes, melancholic facial expression BREAK
 looking at viewer, raw photo, soft lighting, film grain, editorial style, 18mm f/2.8 photograph
 
-Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, sharp face, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, melancholic facial expression BREAK
+Prompt: full body photo of a 35-years old naked European woman with a height of 170cm, athletic body, sharp face, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, dark brown hair, melancholic facial expression BREAK
 looking at viewer, raw photo, soft lighting, film grain, editorial style, 18mm f/2.8 photograph, detailed hands, detailed fingers
 
 Prompt (4039838748): photo of a 35-years old naked European woman with a height of 170cm lying in bed, athletic body, beautiful small breasts, (triangle shaped pubic hair:1.2), thick eyebrows, brown hair, melancholic facial expression BREAK
@@ -22,5 +22,38 @@ Sampling steps: 35
 CFG scale: 2
 
 864x1152
+
+Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5
+
+
+
+
+full body photo of a 35-years old naked European woman with a height of 170cm, (athletic underweight skinny body), beautiful tiny breasts, (triangle shaped pubic hair:1.2), pale skin, thick eyebrows, dark brown hair, pouty lips BREAK looking at viewer, shot by professional photographer in a studio, film grain, low contrast, natural lighting, RAW, realistic skin tone, atmospheric perspective
+
+Sampling: DPM++3M SDE Karras
+
+Sampling steps: 35
+
+CFG scale: 4
+
+864x1152
+
+Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5
+
+
+
+
+
+
+
+naked European (athletic underweight skinny body) woman laying on the bed, beautiful tiny breasts, spreading her legs, dark brown eyes, dark brown hair, thick eyebrows, smooth pale skin, (triangle shaped pubic hair:1.2) BREAK looking at viewer, shot by professional photographer in a studio, film grain, low contrast, natural lighting, RAW, realistic skin tone, atmospheric perspective
+
+Sampling: DPM++3M SDE Karras
+
+Sampling steps: 30
+
+CFG scale: 4
+
+1152x1152
 
 Hires fix: ESRGAN 4x 15 steps 0.4 denoising upscaler by 1.5

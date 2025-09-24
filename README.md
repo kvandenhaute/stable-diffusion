@@ -3,7 +3,9 @@
 
 Run ./deploy.sh
 
-ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-52-31-78-76.eu-west-1.compute.amazonaws.com
+ssh -i "~/.ssh/macmini.pem" ubuntu@ec2-34-242-254-80.eu-west-1.compute.amazonaws.com
+git checkout playground
+ssh -i "~/.ssh/macmini.pem" ec2-user@ec2-54-194-165-67.eu-west-1.compute.amazonaws.com
 
 run `./scripts/install-webui.sh`
 
@@ -14,7 +16,7 @@ https://stablediffusionxl.com/prompts/
 
 
 
-http://ec2-52-31-78-76.eu-west-1.compute.amazonaws.com:7860
+http://ec2-46-137-125-125.eu-west-1.compute.amazonaws.com:7860
 
 
 
